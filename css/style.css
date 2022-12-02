@@ -7,7 +7,7 @@ body {
     font-family: inherit;
 }
 
-/* HEADER */
+/* ____HEADER____ */
 
 .header {
 }
@@ -83,6 +83,8 @@ font-weight: 400;
 .header-phone:hover {
     color: #4D5AE5;
 }
+
+/* ___HERO SECTION___ */
 
 h1 {
     font-weight: 600;
