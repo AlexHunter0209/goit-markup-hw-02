@@ -2,3 +2,68 @@ body {
     font-family: "Raleway", sans-serif;
     font-family: "Roboto", sans-serif;
 }
+
+.link {
+    font-family: inherit;
+}
+
+/* HEADER */
+
+.header {
+}
+.header-logo {
+}
+.header-list {
+}
+
+.header-link {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: #2E2F42;
+}
+
+.header-link:hover {
+    color: #4D5AE5;
+}
+
+/* Header List Contacts */
+
+.header-list-contacts {
+}
+
+.header-item-email {    
+}
+
+.header-email.link-email {
+font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: #434455;
+}
+.header-email:hover {
+    color: #4D5AE5;
+}
+
+.header-item-phone {
+}
+
+.header-phone.link-phone {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: #434455;    
+}
+
+.header-phone:hover {
+    color: #4D5AE5;
+}
+
+
+
