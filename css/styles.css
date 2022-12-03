@@ -64,7 +64,8 @@ font-weight: 400;
     text-decoration: none;
     color: #434455;
 }
-.header-email:hover {
+.header-email:hover,
+.header-link:focus {
     color: #4D5AE5;
 }
 
@@ -80,7 +81,8 @@ font-weight: 400;
     color: #434455;    
 }
 
-.header-phone:hover {
+.header-phone:hover,
+.header-link:focus {
     color: #4D5AE5;
 }
 
@@ -95,7 +97,13 @@ h1 {
     background-color: #2E2F42;
 }
 
-.hero-btn.btn {
+.hero {
+}
+
+.hero-title {
+}
+
+.hero-button {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 600;
@@ -105,4 +113,6 @@ h1 {
     color: #FFFFFF;
     background: #4D5AE5;
 }
+
+
 
